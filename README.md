@@ -15,7 +15,7 @@ $ cd <directory> # example: cd hello_world
 $ go test
 ```
 
-Run the tests of a specific directory and show the **coverage**:
+Run the tests of a specific directory and show the coverage:
 ```bash
 $ cd <directory> # example: cd hello_world
 $ go test -cover
